@@ -139,6 +139,5 @@ class ClusterVizRender2 extends Component {
 
 }
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyBgwQjWXbrz4rC9z7zy_V_luI6PxYcHvms'
+    apiKey: ''
 })(ClusterVizRender2);
-//https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=${API_KEY}
